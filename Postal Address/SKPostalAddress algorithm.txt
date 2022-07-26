@@ -1,0 +1,21 @@
+Sara Kendig
+CPS 121
+6/28/22
+
+This program will prompt the user to input 
+their postal information and print it to 
+the console window
+
+
+1.set variables
+2. create keyboard input
+3. get users first name (Please enter your first name: )
+4. get users last name (Please enter your last name: )
+5. get users birth month (Please enter your birth month: )
+6. get users birth day (Please enter your birth day: )
+7. get users birth year (Please enter your birth year: )
+8. get users birth city (Please enter your birth city: )
+9. get users birth state (Please enter your birth state: )
+10. display users first and last name (Name: )
+11. display users birth month day and year using 00/00/00 (Birthday: )
+12. display users birth city and state (Born in: )

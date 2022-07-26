@@ -1,0 +1,10 @@
+Display "This program will calculate mileage."
+Create new scanner keyboard object
+Display "Enter miles driven:"
+Get miles driven
+Display "Enter gallons used: "
+Get gallons used
+Calculate MPG by dividing miles driven by gallons used
+Display MPG + " miles per gallon"
+Display MPG with 2 decimal places + " miles per gallon"
+

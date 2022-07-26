@@ -1,0 +1,29 @@
+//Import the JOptionPane
+
+//Declare variables
+String input
+String firstName
+String lastName
+int hours
+int payRate
+int grossPay
+
+
+//get data
+display "What is your first name?"
+display "What is your last name?"
+Display "Enter hours worked: "
+
+convert input to int
+
+display "Enter hourly pay: "
+
+convert input to int 
+
+//calculate gross pay
+
+gross pay equals hours times hourly pay
+
+//display results
+Display "Hello Jane Doe, // new line
+Display "Your gross pay is $[gross pay].
