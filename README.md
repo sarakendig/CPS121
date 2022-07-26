@@ -1,2 +1,2 @@
 # CPS121
-Programs written for CPS 121 and Harrisburg Area Community college
+## Programs written for CPS 121 at Harrisburg Area Community college (HACC)
