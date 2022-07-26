@@ -8,8 +8,8 @@
 ...Changes in the economy have determined that for the Fed-Ups shipping company, a
 surcharge will be assessed on all packages that meet certain criteria. The surcharge is a
 function of the characteristics of the package and the zip code to which it is sent.
-......1. The regular charges for shipping are calculated as follows:
- .........a. For all weights five pounds and under, the shipping cost is $12.00.
+... ...1. The regular charges for shipping are calculated as follows:
+ ... ... ...a. For all weights five pounds and under, the shipping cost is $12.00.
  .........b. For all weights over five pounds, the charge is calculated as follows:
  ............If length * width * height is:
 ............o greater than 5 and less than or equal to 15, the shipping cost is 14.00
