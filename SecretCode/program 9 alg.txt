@@ -1,0 +1,13 @@
+import File I/O classes
+import Scanner class
+open the file
+create String fileContents to hold file contents
+create int tokeCounts to hold token count
+create char letter to hold a character 
+create a stringbuilder object
+Get a line of input from the file and close the file with while loop
+Get the tokens using s space delimiter
+Process the tokens and determine is the token counter is divisible by 5
+Get the first character of the token, convert it to uppercase then add it to the String
+Increase the token counter
+Display the Secret message string

@@ -1,0 +1,17 @@
+Create a class to store data for the songs
+-this class holds the private string title and private string artist
+-this class has a method that declares the title and artist
+-this class has a method that appends to String title + "by" + artist + "\n"
+
+Create a program to generate a list of songs and display them 
+get songs from text file
+use BufferedReader to read file
+Create String variable for title
+create string variable for artist
+Declary array of song objects, size 6, called cd
+loop through the file to fill the array with song title and artist and store it in the proper position
+display "Contents of PopSongs:"
+Display "*********************"
+loop through array to display song title by song artist
+
+
